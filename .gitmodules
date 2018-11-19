@@ -1,0 +1,3 @@
+[submodule "estimateLWE"]
+	path = estimateLWE
+	url = https://github.com/estimate-all-the-lwe-ntru-schemes/estimate-all-the-lwe-ntru-schemes.github.io.git
